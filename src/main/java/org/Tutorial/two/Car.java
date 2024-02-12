@@ -1,7 +1,7 @@
 package org.Tutorial.two;
 
 // Car.java
-public class Car {
+public class        Car {
     private String model;
 
     // Parameterized constructor for Car
