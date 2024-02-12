@@ -4,22 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/CtorTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/LeapOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/MethodType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/NumOfObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Vovel.java" afterDir="false" />
+    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Lab1 and Tut2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/one/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/three/_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/three/_string_buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/three/_string_builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/EmployeeInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/TrafficPolice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HttpClient5Get.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Access.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/CtorTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/CtorTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/LeapOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/LeapOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/MethodType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/NumOfObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/NumOfObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Vovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Vovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +48,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/Tutorial/two/Access.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,7 +64,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Case.executor": "Run",
+    "Application.Classroom.executor": "Run",
+    "Application.CtorTypes.executor": "Run",
+    "Application.EmployeeInformation.executor": "Run",
+    "Application.HttpClient5Get.executor": "Run",
+    "Application.LeapOrNot.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.NumOfObject.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.Vovel.executor": "Run",
+    "Application._string.executor": "Run",
+    "Application._string_buffer.executor": "Run",
+    "Application._string_builder.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -59,6 +88,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,19 +115,51 @@
       <workItem from="1705565334631" duration="316000" />
       <workItem from="1705968575486" duration="338000" />
       <workItem from="1705949119924" duration="77000" />
-      <workItem from="1705949203279" duration="2296000" />
+      <workItem from="1705949203279" duration="2603000" />
+      <workItem from="1706157394855" duration="1665000" />
+      <workItem from="1706353516174" duration="139000" />
+      <workItem from="1706353663438" duration="7926000" />
+      <workItem from="1707378569231" duration="1444000" />
+      <workItem from="1707380297568" duration="709000" />
+      <workItem from="1707496581745" duration="308000" />
+      <workItem from="1707591212064" duration="442000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor: Lab and Tutorial">
+      <option name="closed" value="true" />
+      <created>1705956069084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705956069084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor: Lab and Tutorial" />
+    <MESSAGE value="feat: Lab1 and Tut2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Lab1 and Tut2" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/HttpClient5Get.java</url>
+          <line>20</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

@@ -14,15 +14,25 @@ public class Vovel {
 
         m = (char) bf.read();
         if(m == 'a' || m == 'e'|| m == 'i'|| m == 'o'|| m == 'u'){
-            System.out.println("vovle");
+            System.out.println("vowel");
         }
         else if(m >= 65 && m <= 123) {
-            System.out.println("Consonent");
+            System.out.println("Consonant");
             return;
         }
 
         else if(m >= 48 && m <= 57) {
             System.out.println("Digit");
         }
+    }
+
+    public static void main(String[] args) {
+        Vovel v = new Vovel();
+        try{
+            v.determine();
+        }catch(IOException err){
+            System.out.println(err);
+        }
+
     }
 }

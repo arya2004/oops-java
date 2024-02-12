@@ -26,4 +26,15 @@ public class Case {
             System.out.println("Digit");
         }
     }
+
+    public static void main(String[] args) {
+
+        Case c = new Case();
+        try{
+            c.determine();
+        }catch (IOException io){
+            System.out.println(io.getMessage());
+        }
+
+    }
 }

@@ -17,6 +17,11 @@ public class SumOfDigits {
             number = number / 10;
         }
 
-        System.out.println("Sum"+sum);
+        System.out.println("Sum: "+sum);
+    }
+
+    public static void main(String[] args) {
+        SumOfDigits s1 = new SumOfDigits(12210060);
+        SumOfDigits s2 = new SumOfDigits(12210053);
     }
 }
