@@ -12,7 +12,7 @@ public class Area {
 
 
 
-    public static double Calculate(int _height, int _base){
+    public       static double Calculate(int _height, int _base){
 
         return (_height + _base) / 2;
     }
@@ -23,5 +23,9 @@ public class Area {
     public static double Calculate(int _radius){
 
         return (_radius * _radius * Math.PI);
+    }
+
+    public static void main(String[] args) {
+
     }
 }

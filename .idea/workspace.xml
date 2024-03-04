@@ -4,34 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Lab1 and Tut2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/one/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/three/_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/three/_string_buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/three/_string_builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/EmployeeInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/TrafficPolice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HttpClient5Get.java" afterDir="false" />
+    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Lab3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/commonIntegerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/commonStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/equilityArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/methodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/repeatedArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/ASCIIValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/DisplayArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/HighestLowestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/MatrixAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/MatrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/SecondHighestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/SumOfEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/UniqueThreeDigitNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Access.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/CtorTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/CtorTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/LeapOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/LeapOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/MethodType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/NumOfObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/NumOfObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Vovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/two/Vovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Area.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Adder.executor": "Run",
+    "Application.Area.executor": "Run",
     "Application.Case.executor": "Run",
+    "Application.Circle.executor": "Run",
     "Application.Classroom.executor": "Run",
     "Application.CtorTypes.executor": "Run",
     "Application.EmployeeInformation.executor": "Run",
@@ -75,10 +69,17 @@
     "Application.NumOfObject.executor": "Run",
     "Application.Power.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.Triangle.executor": "Run",
     "Application.Vovel.executor": "Run",
     "Application._string.executor": "Run",
     "Application._string_buffer.executor": "Run",
     "Application._string_builder.executor": "Run",
+    "Application.commonIntegerArray.executor": "Run",
+    "Application.commonStringArray.executor": "Run",
+    "Application.equilityArrays.executor": "Run",
+    "Application.methodOverloading.executor": "Run",
+    "Application.repeatedArrayElements.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -123,6 +124,13 @@
       <workItem from="1707380297568" duration="709000" />
       <workItem from="1707496581745" duration="308000" />
       <workItem from="1707591212064" duration="442000" />
+      <workItem from="1707743523095" duration="5457000" />
+      <workItem from="1707814621704" duration="2006000" />
+      <workItem from="1707970484517" duration="682000" />
+      <workItem from="1708364019976" duration="816000" />
+      <workItem from="1709531639077" duration="1016000" />
+      <workItem from="1709533337209" duration="489000" />
+      <workItem from="1709537985425" duration="1335000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: Lab and Tutorial">
       <option name="closed" value="true" />
@@ -132,7 +140,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705956069084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: Lab2">
+      <option name="closed" value="true" />
+      <created>1707724912014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707724912014</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Lab3">
+      <option name="closed" value="true" />
+      <created>1707729031766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707729031766</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +176,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor: Lab and Tutorial" />
     <MESSAGE value="feat: Lab1 and Tut2" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Lab1 and Tut2" />
+    <MESSAGE value="feat: Lab2" />
+    <MESSAGE value="feat: Lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Lab3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
