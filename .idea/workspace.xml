@@ -4,25 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Lab3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/commonIntegerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/commonStringArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/equilityArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/five/repeatedArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/ASCIIValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/DisplayArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/HighestLowestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/MatrixAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/MatrixMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/SecondHighestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/SumOfEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/TransposeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/four/UniqueThreeDigitNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadDemo.java" afterDir="false" />
+    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Tutorial 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/five/LabFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/four/ExceptionH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/four/ManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/AbstractClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/MarksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/DisplayInitialsAndLastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/SingletonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/AntiDiagonals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckStringContainsE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckWordInSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CountDuplicateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/RemoveWhitespace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/SegregateZerosAndOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phorEich.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,30 +67,54 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ASCIIValue.executor": "Run",
+    "Application.AbstractClassTest.executor": "Run",
     "Application.Adder.executor": "Run",
-    "Application.Area.executor": "Run",
+    "Application.AntiDiagonals.executor": "Run",
+    "Application.Area.executor": "Debug",
+    "Application.AreaCalculator.executor": "Run",
+    "Application.BankTest.executor": "Run",
     "Application.Case.executor": "Run",
+    "Application.CheckAnagram.executor": "Run",
+    "Application.CheckPalindrome.executor": "Run",
+    "Application.CheckStringContainsE.executor": "Run",
+    "Application.CheckWordInSentence.executor": "Run",
     "Application.Circle.executor": "Run",
     "Application.Classroom.executor": "Run",
+    "Application.CountDuplicateWords.executor": "Run",
+    "Application.CountWords.executor": "Run",
     "Application.CtorTypes.executor": "Run",
+    "Application.DisplayInitialsAndLastName.executor": "Run",
     "Application.EmployeeInformation.executor": "Run",
+    "Application.ExceptionH.executor": "Debug",
+    "Application.ExceptionHandlingExample.executor": "Run",
     "Application.HttpClient5Get.executor": "Run",
+    "Application.LabFive.executor": "Run",
     "Application.LeapOrNot.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainClass.executor": "Run",
+    "Application.ManagementSystem.executor": "Debug",
+    "Application.MarksTest.executor": "Run",
     "Application.NumOfObject.executor": "Run",
     "Application.Power.executor": "Run",
+    "Application.RemoveWhitespace.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SegregateZerosAndOnes.executor": "Run",
+    "Application.SingletonExample.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
     "Application.Triangle.executor": "Run",
+    "Application.VehicleFactory.executor": "Run",
     "Application.Vovel.executor": "Run",
     "Application._string.executor": "Run",
     "Application._string_buffer.executor": "Run",
     "Application._string_builder.executor": "Run",
     "Application.commonIntegerArray.executor": "Run",
     "Application.commonStringArray.executor": "Run",
+    "Application.complex.executor": "Debug",
     "Application.equilityArrays.executor": "Run",
     "Application.methodOverloading.executor": "Run",
+    "Application.phorEich.executor": "Run",
     "Application.repeatedArrayElements.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -130,7 +166,14 @@
       <workItem from="1708364019976" duration="816000" />
       <workItem from="1709531639077" duration="1016000" />
       <workItem from="1709533337209" duration="489000" />
-      <workItem from="1709537985425" duration="1335000" />
+      <workItem from="1709537985425" duration="1960000" />
+      <workItem from="1710176064563" duration="3456000" />
+      <workItem from="1710402816579" duration="1695000" />
+      <workItem from="1710767328985" duration="415000" />
+      <workItem from="1710750577424" duration="419000" />
+      <workItem from="1711957114570" duration="5954000" />
+      <workItem from="1712563125508" duration="601000" />
+      <workItem from="1713115831657" duration="2238000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: Lab and Tutorial">
       <option name="closed" value="true" />
@@ -156,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707729031766</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Tutorial 4">
+      <option name="closed" value="true" />
+      <created>1709539607780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709539607780</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +229,8 @@
     <MESSAGE value="feat: Lab1 and Tut2" />
     <MESSAGE value="feat: Lab2" />
     <MESSAGE value="feat: Lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Lab3" />
+    <MESSAGE value="feat: Tutorial 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Tutorial 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
