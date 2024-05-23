@@ -4,37 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Tutorial 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/five/LabFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/four/ExceptionH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/four/ManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/AbstractClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/MarksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/eight/VehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/DisplayInitialsAndLastName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/ExceptionHandlingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/SingletonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/seven/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/AntiDiagonals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckStringContainsE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CheckWordInSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CountDuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/CountWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/RemoveWhitespace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tutorial/six/SegregateZerosAndOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/phorEich.java" afterDir="false" />
+    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Tutorial 6-7-8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/eighteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/fifteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/forteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/seventeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/sixteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/thirteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty_three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Lab/three/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Lab/three/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +43,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arya2004&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7a13ebe3-db3c-4ec8-8a05-90bed0188403" />
+        <option name="url" value="https://github.com/arya2004/OOPS_Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/org/Tutorial/two/Access.java" root0="FORCE_HIGHLIGHTING" />
@@ -112,10 +119,31 @@
     "Application.commonIntegerArray.executor": "Run",
     "Application.commonStringArray.executor": "Run",
     "Application.complex.executor": "Debug",
+    "Application.eight.executor": "Debug",
+    "Application.eighteen.executor": "Debug",
+    "Application.eleven.executor": "Debug",
     "Application.equilityArrays.executor": "Run",
+    "Application.fifteen.executor": "Debug",
+    "Application.five.executor": "Debug",
+    "Application.forteen.executor": "Debug",
+    "Application.four.executor": "Debug",
     "Application.methodOverloading.executor": "Run",
+    "Application.one.executor": "Debug",
     "Application.phorEich.executor": "Run",
     "Application.repeatedArrayElements.executor": "Run",
+    "Application.seven.executor": "Debug",
+    "Application.seventeen.executor": "Debug",
+    "Application.six.executor": "Debug",
+    "Application.sixteen.executor": "Debug",
+    "Application.ten.executor": "Debug",
+    "Application.thirteen.executor": "Debug",
+    "Application.three.executor": "Debug",
+    "Application.twelve.executor": "Debug",
+    "Application.twenty.executor": "Debug",
+    "Application.twenty_one.executor": "Debug",
+    "Application.twenty_three.executor": "Debug",
+    "Application.twenty_two.executor": "Debug",
+    "Application.two.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -173,7 +201,10 @@
       <workItem from="1710750577424" duration="419000" />
       <workItem from="1711957114570" duration="5954000" />
       <workItem from="1712563125508" duration="601000" />
-      <workItem from="1713115831657" duration="2238000" />
+      <workItem from="1713115831657" duration="2290000" />
+      <workItem from="1716461578574" duration="1792000" />
+      <workItem from="1716480679757" duration="3630000" />
+      <workItem from="1716491779493" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: Lab and Tutorial">
       <option name="closed" value="true" />
@@ -207,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709539607780</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: Tutorial 6-7-8">
+      <option name="closed" value="true" />
+      <created>1713118110994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713118110994</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +269,8 @@
     <MESSAGE value="feat: Lab2" />
     <MESSAGE value="feat: Lab3" />
     <MESSAGE value="feat: Tutorial 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Tutorial 4" />
+    <MESSAGE value="feat: Tutorial 6-7-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Tutorial 6-7-8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
