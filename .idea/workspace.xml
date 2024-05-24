@@ -4,30 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Tutorial 6-7-8">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/eight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/eighteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/eleven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/fifteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/forteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/nine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/seventeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/sixteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/ten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/thirteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twelve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty_one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty_three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/twenty_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/two.java" afterDir="false" />
+    <list default="true" id="77783526-2dc8-408b-ab01-c823b4d88914" name="Changes" comment="feat: Lab Exam Questions">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/labExam/nineteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/labExam/eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/labExam/eight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/labExam/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/labExam/one.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,11 +117,14 @@
     "Application.six.executor": "Debug",
     "Application.sixteen.executor": "Debug",
     "Application.ten.executor": "Debug",
+    "Application.tenty_four.executor": "Debug",
     "Application.thirteen.executor": "Debug",
     "Application.three.executor": "Debug",
     "Application.twelve.executor": "Debug",
     "Application.twenty.executor": "Debug",
+    "Application.twenty_five.executor": "Debug",
     "Application.twenty_one.executor": "Debug",
+    "Application.twenty_six.executor": "Debug",
     "Application.twenty_three.executor": "Debug",
     "Application.twenty_two.executor": "Debug",
     "Application.two.executor": "Debug",
@@ -204,7 +188,7 @@
       <workItem from="1713115831657" duration="2290000" />
       <workItem from="1716461578574" duration="1792000" />
       <workItem from="1716480679757" duration="3630000" />
-      <workItem from="1716491779493" duration="1391000" />
+      <workItem from="1716491779493" duration="9110000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: Lab and Tutorial">
       <option name="closed" value="true" />
@@ -246,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713118110994</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: Lab Exam Questions">
+      <option name="closed" value="true" />
+      <created>1716493571188</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716493571189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +262,8 @@
     <MESSAGE value="feat: Lab3" />
     <MESSAGE value="feat: Tutorial 4" />
     <MESSAGE value="feat: Tutorial 6-7-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Tutorial 6-7-8" />
+    <MESSAGE value="feat: Lab Exam Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Lab Exam Questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

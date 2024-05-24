@@ -1,11 +1,11 @@
 package org.labExam;
-class Student {
+class Studentss {
     private int studentId;
     private double aggregateMarks;
     private final double BASE_STIPEND = 100.0;
     private final double STIPEND;
 
-    public Student(int studentId, double aggregateMarks) {
+    public Studentss(int studentId, double aggregateMarks) {
         this.studentId = studentId;
         this.aggregateMarks = aggregateMarks;
         this.STIPEND = calculateTotalStipend();
@@ -50,7 +50,7 @@ class Student {
 
 public class six {
     public static void main(String[] args) {
-        Student student = new Student(1212, 93);
+        Studentss student = new Studentss(1212, 93);
         System.out.println("The final stipend of " + student.getStudentId() + " is $" + student.getStipend());
     }
 }

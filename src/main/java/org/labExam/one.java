@@ -2,33 +2,32 @@ package org.labExam;
 
 import java.util.*;
 
+
+
+
+
 public class one {
 
-    public static List<Integer> removeDuplicate(List<Integer> arr){
-        Set<Integer> s = new HashSet<>();
-        for(var a : arr){
-
-            s.add(a);
-        }
-
-        List<Integer> toReturn = new ArrayList<Integer>(s);
-        System.out.println(toReturn);
-
-        return toReturn;
-
-    }
     public static void main(String[] args) {
+        // Sample input
+        Integer[] numbers = {10, 20, 10, 15, 40, 15, 40};
 
-        List<Integer> al = new ArrayList<Integer>();
-        al.add(10);
-        al.add(20);
-        al.add(10);
-        al.add(15);
-        al.add(40);
-        al.add(15);
-        al.add(40);
+        // Convert array to ArrayList
+        ArrayList<Integer> numberList = new ArrayList<>(Arrays.asList(numbers));
 
+        // Remove duplicates
+        ArrayList<Integer> uniqueList = removeDuplicates(numberList);
 
-        List<Integer> pp = one.removeDuplicate(al);
+        // Print the unique list
+        System.out.println(uniqueList);
+    }
+
+    public static ArrayList<Integer> removeDuplicates(ArrayList<Integer> list) {
+        // Use a LinkedHashSet to remove duplicates while preserving the order
+        Set<Integer> set = new LinkedHashSet<>(list);
+
+        // Convert the set back to an ArrayList
+        return new ArrayList<>(set);
     }
 }
+

@@ -33,7 +33,7 @@ public class eight {
         StringBuilder sb = new StringBuilder();
         sb.append(a);
         sb.reverse();
-        System.out.println(sb);
+        System.out.println(sb.toString().getClass());
 
     }
 }
